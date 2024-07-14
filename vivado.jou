@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:05:29 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Wed Dec 13 10:39:52 2023
+# Process ID: 17572
+# Current directory: C:/Users/22770/Desktop/Low Power FPGA/Project/Final-Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent30152 C:\Users\22770\Desktop\Low Power FPGA\Project\Final-Project\Final-Project.xpr
+# Log file: C:/Users/22770/Desktop/Low Power FPGA/Project/Final-Project/vivado.log
+# Journal file: C:/Users/22770/Desktop/Low Power FPGA/Project/Final-Project\vivado.jou
+# Running On: little_handsome, OS: Windows, CPU Frequency: 2918 MHz, CPU Physical cores: 14, Host memory: 16890 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/22770/Desktop/Low Power FPGA/Project/Final-Project/Final-Project.xpr}
